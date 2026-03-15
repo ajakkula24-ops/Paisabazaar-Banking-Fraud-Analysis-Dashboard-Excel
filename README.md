@@ -113,8 +113,6 @@ Fraud Data Analysis
 
 📂 Dataset
 
-Format: CSV (.csv)
-
 Dataset includes:
 
 Customer ID
@@ -136,8 +134,6 @@ Credit Utilization
 📂 Project Files
 
 Paisabazaar_Banking_Fraud_Analysis_Dashboard.xlsx
-
-dataset.csv
 
 💡 Key Insights
 
